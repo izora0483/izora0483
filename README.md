@@ -1,16 +1,138 @@
-## Hi there 👋
+# Hi, I'm Inaya Zoraiz 👋
 
-<!--
-**izora0483/izora0483** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Economics & Information Systems Student  
+💡 Data Analysis | Pricing Strategy | Analytics  
+📍 Elmhurst, Illinois  
 
-Here are some ideas to get you started:
+I enjoy building solutions through **data analysis, analytics dashboards, and problem solving**. My experience spans **pricing analytics, data visualization, and operational analysis**, with hands-on work using tools like **Power BI, SQL, R, and Python**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alongside analytics, I bring experience in **customer-facing roles, leadership, and entrepreneurship**, which helps me approach technical problems with a practical and human perspective.
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/inayazoraiz  
+- 💻 GitHub: https://github.com/izora0483  
+- 📧 Email: inayazoraiz@gmail.com  
+
+---
+
+# 🎓 Education
+
+**B.S. Economics & Computer Information Systems**  
+Elmhurst University  
+
+- GPA: **3.54**
+- **Dean's Academic List**
+- **Elmhurst Scholars Award (95% Scholarship)**
+
+---
+
+# 🛠 Technical Skills
+
+### Programming
+`SQL` • `R` • `Python` • `DAX`
+
+### Data & Analytics
+`Power BI` • `Snowflake` • `Excel` • `Data Visualization`
+
+### Tools
+`Microsoft Office` • `Data Dashboards` • `Reporting`
+
+---
+
+# 💼 Professional Experience
+
+## Pricing Operations Intern — Essendant
+📍 Deerfield, IL  
+📅 June 2025 – Sept 2025  
+
+- Built **Power BI dashboards** analyzing **58.9K+ pricing requests** and **$10M in potential profit impact**
+- Identified pricing deviations, approval trends, and margin risks for sales leadership
+- Produced **market intelligence and pricing benchmark reports**
+- Supported **pricing plan maintenance and variance analysis**
+
+---
+
+## Registration Specialist — Elmhurst University Registrar
+📍 Elmhurst, IL  
+📅 Aug 2023 – Present  
+
+- Maintain **3,000+ student academic records** while ensuring FERPA compliance  
+- Correct **200+ record discrepancies per term**, reducing processing errors by **20–25%**  
+- Support **data-driven internal reporting and operational decisions**
+
+---
+
+## Shift Supervisor — Chartwells (Compass Group)
+📍 Elmhurst, IL  
+📅 June 2022 – Aug 2023  
+
+- Trained **10+ baristas** in service operations and safety standards  
+- Managed inventory of **50+ ingredients**, reducing stock-outs by **15%**  
+
+---
+
+## Founder — Thrifty.pk
+📍 Islamabad, Pakistan  
+📅 2018 – 2021  
+
+- Built and operated an online resale business  
+- Fulfilled **2,500+ orders** with **96% customer satisfaction**  
+- Increased monthly revenue by **25% using data-driven marketing**
+
+---
+
+# 📊 Analytics & Data Projects
+
+### Enrollment Analysis — Private Colleges Case Study
+Data analysis project examining enrollment trends among private colleges using **IPEDS datasets**.
+
+**Key Work**
+- Data analysis in **R**
+- Comparative institutional analysis
+- Data visualization and statistical evaluation
+
+Repository includes:
+- Analysis scripts
+- Data cleaning process
+- Visualizations
+- Research report
+
+---
+
+# 🌍 Leadership & Service
+
+### President — Hope for Gold
+Organizes events and activities for children undergoing cancer treatment, connecting them with Elmhurst students and community support.
+
+### Co-Founder — House of Paws
+Created a **24-hour animal rescue helpline** and helped care for **450+ injured animals**.
+
+### Organizer — Aurat March
+Helped coordinate one of Pakistan's first women's rights demonstrations and assisted drafting policy reform proposals.
+
+---
+
+# 📈 Current Interests
+
+- Data Analytics
+- Pricing Strategy
+- Business Intelligence
+- Economic Data Analysis
+- Data Visualization
+- Applied Econometrics
+
+---
+
+# ⚡ Fun Facts
+
+- 🛠 Carpenter apprentice  
+- 📊 Love building dashboards and data stories  
+- 🌍 Multilingual: Urdu, Hindi, English  
+- 🧠 Always exploring new datasets and analytics tools  
+
+---
+
+⭐ If you find my work interesting, feel free to explore my repositories or connect with me!
