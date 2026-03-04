@@ -1,7 +1,5 @@
 # Hi, I'm Inaya Zoraiz 👋
 
-📊 Economics & Information Systems Student  
-💡 Data Analysis | Pricing Strategy | Analytics  
 📍 Elmhurst, Illinois  
 
 I enjoy building solutions through **data analysis, analytics dashboards, and problem solving**. My experience spans **pricing analytics, data visualization, and operational analysis**, with hands-on work using tools like **Power BI, SQL, R, and Python**.  
@@ -14,7 +12,7 @@ Alongside analytics, I bring experience in **customer-facing roles, leadership, 
 
 - 💼 LinkedIn: https://linkedin.com/in/inayazoraiz  
 - 💻 GitHub: https://github.com/izora0483  
-- 📧 Email: inayazoraiz@gmail.com  
+- 📧 Email: inayazorraiz@gmail.com  
 
 ---
 
@@ -89,17 +87,6 @@ Elmhurst University
 ### Enrollment Analysis — Private Colleges Case Study
 Data analysis project examining enrollment trends among private colleges using **IPEDS datasets**.
 
-**Key Work**
-- Data analysis in **R**
-- Comparative institutional analysis
-- Data visualization and statistical evaluation
-
-Repository includes:
-- Analysis scripts
-- Data cleaning process
-- Visualizations
-- Research report
-
 ---
 
 # 🌍 Leadership & Service
@@ -112,26 +99,6 @@ Created a **24-hour animal rescue helpline** and helped care for **450+ injured 
 
 ### Organizer — Aurat March
 Helped coordinate one of Pakistan's first women's rights demonstrations and assisted drafting policy reform proposals.
-
----
-
-# 📈 Current Interests
-
-- Data Analytics
-- Pricing Strategy
-- Business Intelligence
-- Economic Data Analysis
-- Data Visualization
-- Applied Econometrics
-
----
-
-# ⚡ Fun Facts
-
-- 🛠 Carpenter apprentice  
-- 📊 Love building dashboards and data stories  
-- 🌍 Multilingual: Urdu, Hindi, English  
-- 🧠 Always exploring new datasets and analytics tools  
 
 ---
 
