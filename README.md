@@ -74,11 +74,11 @@ Elmhurst University
 
 ---
 
-# 📊 Analytics & Data Projects
+# Analytics & Data Projects
 
 ### Enrollment Analysis — Private Colleges Case Study
 Data analysis project examining enrollment trends among private colleges using **IPEDS datasets**.
 
 ---
 
-⭐ If you find my work interesting, feel free to explore my repositories or connect with me!
+If you find my work interesting, feel free to explore my repositories or connect with me!
