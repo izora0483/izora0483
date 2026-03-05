@@ -11,7 +11,7 @@ Alongside analytics, I bring experience in **customer-facing roles, leadership, 
 ## Connect With Me
 
 - LinkedIn: https://linkedin.com/in/inayazoraiz  
-- 📧 Email: inayazorraiz@gmail.com  
+- Email: inayazorraiz@gmail.com  
 
 ---
 
