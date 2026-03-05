@@ -2,7 +2,7 @@
 
 📍 Elmhurst, Illinois  
 
-I enjoy building solutions through **data analysis, analytics dashboards, and problem solving**. My experience spans **pricing analytics, data visualization, and operational analysis**, with hands-on work using tools like **Power BI, SQL, R, and Python**.  
+I enjoy building solutions through **data analysis, analytics dashboards, and problem solving**. My experience spans pricing analytics, data visualization, and operational analysis, with hands-on work using tools like **Power BI, SQL, R, and Python**.  
 
 Alongside analytics, I bring experience in **customer-facing roles, leadership, and entrepreneurship**, which helps me approach technical problems with a practical and human perspective.
 
@@ -10,8 +10,7 @@ Alongside analytics, I bring experience in **customer-facing roles, leadership, 
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/inayazoraiz  
-- 💻 GitHub: https://github.com/izora0483  
+- LinkedIn: https://linkedin.com/in/inayazoraiz  
 - 📧 Email: inayazorraiz@gmail.com  
 
 ---
@@ -22,9 +21,6 @@ Alongside analytics, I bring experience in **customer-facing roles, leadership, 
 Elmhurst University  
 
 - GPA: **3.54**
-- **Dean's Academic List**
-- **Elmhurst Scholars Award (95% Scholarship)**
-
 ---
 
 # 🛠 Technical Skills
